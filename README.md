@@ -5,13 +5,14 @@ The project includes IoT - Application - Facial Recognition.
 This code based IoT to control the hardware components and communicate with application through firebase. 
 
 1. ESP32_S3 Wroom Board
-2. Adafruit_SSD1306 (OLED)
-3. Servo Motor
-4. Vibration Sensor Module
-5. PIR Motion Sensor
-6. Push Button
-7. LiPo Rider Plus Charger/Booster
-8. Lithium-Ion Polymer (LiPo) Battery
+2. OV2640 Camera 
+3. Adafruit_SSD1306 (OLED)
+4. Servo Motor
+5. Vibration Sensor Module
+6. PIR Motion Sensor
+7. Push Button
+8. LiPo Rider Plus Charger/Booster
+9. Lithium-Ion Polymer (LiPo) Battery
 
 
 # State_Flow
