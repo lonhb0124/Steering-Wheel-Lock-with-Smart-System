@@ -3,6 +3,7 @@ The project includes IoT - Application - Facial Recognition.
 
 # Main Components
 This code based IoT to control the hardware components and communicate with application through firebase. 
+
 (Does not include javascirpt code for application and python code for facial Recognition on google cloud function)
 
 1. ESP32_S3 Wroom Board
