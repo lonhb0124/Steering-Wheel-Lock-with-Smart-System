@@ -13,6 +13,7 @@ This code based IoT to control the hardware components and communicate with appl
 7. Push Button
 8. LiPo Rider Plus Charger/Booster
 9. Lithium-Ion Polymer (LiPo) Battery
+10. 1GB SD card
 
 
 # State_Flow
