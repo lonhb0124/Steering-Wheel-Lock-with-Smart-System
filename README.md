@@ -11,9 +11,11 @@ This code based IoT to control the hardware components and communicate with appl
 5. Vibration Sensor Module
 6. PIR Motion Sensor
 7. Push Button
-8. LiPo Rider Plus Charger/Booster
-9. Lithium-Ion Polymer (LiPo) Battery
-10. 1GB SD card
+8. LED
+9. LiPo Rider Plus Charger/Booster
+10. Lithium-Ion Polymer (LiPo) Battery
+11. 1GB SD card
+12. GT-U7 GPS Module
 
 
 # State_Flow
