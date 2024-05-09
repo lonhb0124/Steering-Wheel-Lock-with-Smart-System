@@ -47,34 +47,34 @@ void servo_set_angle(int angle);
 #define PushButton2 48  //define the pwm precision
 
 /* 1. Define the WiFi credentials */
-#define WIFI_SSID1 "SM-G950W3442"
-#define WIFI_PASSWORD1 "123454321"
-#define WIFI_SSID2 "Clydefrog"
-#define WIFI_PASSWORD2 "1234567877"
-//#define WIFI_SSID2 "Hyunbin Yim"
-//#define WIFI_PASSWORD2 "zkdhtm0124!@"
+#define WIFI_SSID1 ""
+#define WIFI_PASSWORD1 ""
+#define WIFI_SSID2 ""
+#define WIFI_PASSWORD2 ""
+//#define WIFI_SSID2 ""
+//#define WIFI_PASSWORD2 ""
 
 //for YORKU WIFI
 #define EAP_IDENTITY "" //if connecting from another corporation, use identity@organisation.domain in Eduroam 
 #define EAP_USERNAME "" //oftentimes just a repeat of the identity
 #define EAP_PASSWORD "" //your Eduroam password
-const char* ssid = "AirYorkPLUS"; // Eduroam SSID
+const char* ssid = ""; // Eduroam SSID
 
 // Replace with your Firebase project credentials
-//#define API_KEY "AIzaSyAedUySDChaBprQdiOKxdCm5Aw9G1uISo0"   //Anton's cred.
-#define API_KEY "AIzaSyANedkKLDQjHO5S_TEyyKD8ZIyKFmrL2eE"
-//#define API_KEY "AIzaSyAvANHJUjlbdUvA6oSFVaEegiEEN2KHlnU" //Joaquin's cred  
-#define USER_EMAIL "atrublin@gmail.com"     
-#define USER_PASSWORD "123456"      
+//#define API_KEY ""   //Anton's cred.
+#define API_KEY ""
+//#define API_KEY "" //Joaquin's cred  
+#define USER_EMAIL ""     
+#define USER_PASSWORD ""      
 // Firebase Storage bucket
-//#define STORAGE_BUCKET_ID "testesp32-eb662.appspot.com"      //Anton's cred.
-//#define STORAGE_BUCKET_ID "eng4000-ffa91.appspot.com" // Hyunbin's
-#define STORAGE_BUCKET_ID "eng4k-capstone-server-711" //Joaquin's Face-Recognition
-#define STORAGE_BUCKET_ID_ENROLL "eng4k-capstone-server-dataset-folders"    //Joaquin's Enrol
+//#define STORAGE_BUCKET_ID ""      //Anton's cred.
+//#define STORAGE_BUCKET_ID "" // Hyunbin's
+#define STORAGE_BUCKET_ID "" //Joaquin's Face-Recognition
+#define STORAGE_BUCKET_ID_ENROLL ""    //Joaquin's Enrol
 // RTDB URL
-//#define DATABASE_URL "https://testesp32-eb662-default-rtdb.firebaseio.com/" //Anton's cred.
-//#define DATABASE_URL "https://eng4000-ffa91-default-rtdb.firebaseio.com/" // Hyunbin's
-#define DATABASE_URL "https://eng4k-capstone-server-main.firebaseio.com/" //Joaquin's cred 
+//#define DATABASE_URL "" //Anton's cred.
+//#define DATABASE_URL "" // Hyunbin's
+#define DATABASE_URL "" //Joaquin's cred 
 
 
 FirebaseData fbdoDB; // For Realtime Database 
