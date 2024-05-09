@@ -1,8 +1,8 @@
 # Steering Wheel Lock with Smart System 
 The project includes IoT - Application - Facial Recognition.
-This code based IoT to control the hardware components and communicate with application through firebase. 
 
 # Main Components
+This code based IoT to control the hardware components and communicate with application through firebase. 
 1. ESP32_S3 Wroom Board
 
 
