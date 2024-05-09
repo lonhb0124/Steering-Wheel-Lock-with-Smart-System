@@ -3,10 +3,18 @@ The project includes IoT - Application - Facial Recognition.
 
 # Main Components
 This code based IoT to control the hardware components and communicate with application through firebase. 
+
 1. ESP32_S3 Wroom Board
+2. Adafruit_SSD1306 (OLED)
+3. Servo Motor
+4. Vibration Sensor Module
+5. PIR Motion Sensor
+6. Push Button
+7. LiPo Rider Plus Charger/Booster
+8. Lithium-Ion Polymer (LiPo) Battery
 
 
-# State - Flow
+# State_Flow
 ![image](https://github.com/lonhb0124/Steering-wheel-Lock-project/assets/111609834/e15f5873-621f-4f8b-84c8-0952d54aac1c)
 
 Required States of the Product:
@@ -67,4 +75,7 @@ The user will put in their details to register their account to the application.
 ENROLLMENT STATE:
 By pressing the push button switch for 1 second, the user will have 30 pictures taken from them to train the facial recognition model. The Verification state will commence after the training is done.
 
-During every process, the microcontroller will display the current description and status on the OLED screen in front of the user. Also, it will send its GPS data to the application as long as it can establish a connection between itself and a nearby satellite. In any case, a visual model of how the states interact with each other in Fig 37.
+During every process, the microcontroller will display the current description and status on the OLED screen in front of the user. Also, it will send its GPS data to the application as long as it can establish a connection between itself and a nearby satellite. In any case, a visual model of how the states interact with each other.
+
+
+# 
