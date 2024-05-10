@@ -2,7 +2,7 @@
 The project includes IoT - Application - Facial Recognition.
 
 # Main Components
-This code based IoT to control the hardware components and communicate with application through firebase. 
+This code is for MCU to control the hardware components and communicate with application through firebase. 
 
 (Does not include javascirpt code for application and python code for facial Recognition on google cloud function)
 
