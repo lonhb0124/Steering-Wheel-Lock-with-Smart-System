@@ -1,6 +1,15 @@
 # Steering Wheel Lock with Smart System 
 The project includes IoT - Application - Facial Recognition.
 
+
+![image](https://github.com/user-attachments/assets/7638d78e-d9db-4c12-948c-74d2faf84cbe)
+
+![image](https://github.com/user-attachments/assets/a4bb8825-f873-42e9-a993-5e1069aa8768)
+
+![image](https://github.com/user-attachments/assets/0c5d0b5e-bc96-45af-895c-84ea6847bbd0)
+
+
+
 # Main Components
 This code is for MCU to control the hardware components and communicate with application through firebase. 
 
